@@ -1,0 +1,2 @@
+colsample_bytree,silent,scale_pos_weight,min_child_weight,subsample,eta,objective,max_depth,gamma,num_rounds,early_stopping_rounds,score_mean,score_std
+0.6,1,1.0,5,0.6,0.01,reg:linear,12,0,2000,5,0.3792298204302062,0.0081277389870383788
