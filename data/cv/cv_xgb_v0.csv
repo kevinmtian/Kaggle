@@ -1,0 +1,2 @@
+silent,scale_pos_weight,min_child_weight,subsample,eta,objective,max_depth,num_rounds,early_stopping_rounds,score_mean,score_std
+1,1.0,5,0.8,0.01,reg:linear,7,2000,5,0.37771607806275154,0.0059002567676270526
